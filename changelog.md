@@ -12,6 +12,9 @@ Release Date: Jul 26, 2027
     - Added about.php, gallery.php, and welcome.php
     - Changed menu links to work with php pages
     - Removed welcome_page.php. Not needed
+    - Added database support to the site
 
 ## Updated Components
     -Updated to a Basic Website by altering the controllers and views.
+    -Updated gallery.php to use the database images
+    -Updated welcome.php to use the database images
