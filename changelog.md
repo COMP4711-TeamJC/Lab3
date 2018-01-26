@@ -9,6 +9,8 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jul 26, 2027
 
 ## New Components
-
+    - Added about.php, gallery.php, and welcome.php
+    - Changed menu links to work with php pages
+    - Removed welcome_page.php. Not needed
 
 ## Updated Components
