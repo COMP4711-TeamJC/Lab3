@@ -14,3 +14,4 @@ Release Date: Jul 26, 2027
     - Removed welcome_page.php. Not needed
 
 ## Updated Components
+    -Updated to a Basic Website by altering the controllers and views.
