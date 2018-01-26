@@ -22,7 +22,7 @@ class Gallery extends Application
             $pix = $this->images->all();
             
             foreach($pix as $picture){
-                $cels[] = $this->parser->parse('_cell', (array) $picture, true);
+                $cells[] = $this->parser->parse('_cell', (array) $picture, true);
             }
             
             $this->load->library('table');

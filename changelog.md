@@ -16,4 +16,5 @@ Release Date: Jul 26, 2027
 
 ## Updated Components
     -Updated to a Basic Website by altering the controllers and views.
-    -update gallery.php to use the database images
+    -Updated gallery.php to use the database images
+    -Updated welcome.php to use the database images
